@@ -11,7 +11,7 @@ This was achieved by:
  - Ordering the heading attributes in sequential order
  - Creating a concise, descriptive title
 
-The website is visually the same and fully operational. The deployed website can be viewed through this link -   
+The website is visually the same and fully operational. The deployed website can be viewed through this link - https://bondt1.github.io/Challenge01/
 
 ## Installation
 
