@@ -21,7 +21,7 @@ N/A
 
 The website informs the viewer about the multiple services that Horiseon offer such as help with 'search engine optimization', 'online reputation management', and 'social media marketing', as well as arguments suggesting why these are important. The links situated at the top right of the website header take you to the corresponding sections when clicked. 
 
-![A screen capture of the Horiseon webpage](Develop/assets/images/screencapture-127-0-0-1-5501-Develop-index-html-2023-04-04-21_03_01.png)
+![A screen capture of the Horiseon webpage](Assets/images/screencapture-127-0-0-1-5501-Develop-index-html-2023-04-04-21_03_01.png)
 
 ## Credits
 
