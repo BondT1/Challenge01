@@ -5,15 +5,17 @@
   }
   
   body {
-    background-color: #d9dcd6; 
+    background-color: #d9dcd6; /* light grey */
   }
+  
+  /* The commonly used elements throughout the HTML file (<p> and <a>) are ordered first, the remaining elements being organized sequentially */
   
   p {
     font-size: 16px;
   }
   
   a {
-    color: #ffffff; 
+    color: #ffffff; /* white */
     text-decoration: none;
   }
   
@@ -21,8 +23,8 @@
     padding: 20px;
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
       "Lucida Sans", Arial, sans-serif;
-    background-color: #2a607c; 
-    color: #ffffff; 
+    background-color: #2a607c; /* moderate blue */
+    color: #ffffff; /* white */
   }
   
   header h1 {
@@ -30,8 +32,9 @@
     font-size: 48px;
   }
   
+  /* changes the colour of the letters 'seo' */
   header h1 .seo {
-    color: #d9dcd6; 
+    color: #d9dcd6; /* light grey */
   }
   
   header nav {
@@ -71,8 +74,8 @@
     padding: 50px;
     height: 300px;
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    background-color: #0072bb; 
-    color: #ffffff; 
+    background-color: #0072bb; /* strong blue */
+    color: #ffffff; /* white */
   }
   
   .search-engine-optimization img {
@@ -94,8 +97,8 @@
     padding: 50px;
     height: 300px;
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    background-color: #0072bb; 
-    color: #ffffff; 
+    background-color: #0072bb; /* strong blue */
+    color: #ffffff; /* white */
   }
   
   .online-reputation-management img {
@@ -117,8 +120,8 @@
     padding: 50px;
     height: 300px;
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    background-color: #0072bb; 
-    color: #ffffff; 
+    background-color: #0072bb; /* strong blue */
+    color: #ffffff; /* white */
   }
   
   .social-media-marketing img {
@@ -138,12 +141,12 @@
     width: 20%;
     height: 100%;
     font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-    background-color: #2589bd; 
+    background-color: #2589bd; /* strong blue */
   }
   
   .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff; 
+    color: #ffffff; /* white */
   }
   
   .benefit-lead h3 {
@@ -159,7 +162,7 @@
   
   .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff; 
+    color: #ffffff; /* white */
   }
   
   .benefit-brand h3 {
@@ -175,7 +178,7 @@
   
   .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff; 
+    color: #ffffff; /* white */
   }
   
   .benefit-cost h3 {
